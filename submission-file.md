@@ -19,7 +19,6 @@ Video - https://www.youtube.com/watch?v=yLTFl37hkEE
 
 An application that is based on the APIs of multiple reliable news sources, combined with GPT's natural language processing capabilities to extract key information, enable users to easily access the most current industry information and gain insights into emerging industry trends.
 
-## Main Functions
 
 Users can view news cards, bookmark news, edit notes, and automatically switch between news by shaking the phone (using accelerometers to recognise shaking).
 
