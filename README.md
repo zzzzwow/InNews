@@ -8,7 +8,7 @@ Landing page: [https://zzzzwow.github.io/InNews/]
 Showcase video: [https://youtu.be/yLTFl37hkEE]
 
 
-## Installation
+## Installation 💻
 
 Method 1: Download the apk and install into your android phone https://github.com/zzzzwow/InNews/releases/tag/v1.5.0 
 
@@ -23,6 +23,6 @@ flutter run
 ```
 
 
-##  Contact Details
+##  Contact Details 📧
 
 Having Contact Details is also If you have any question, please contact author via email: qijingzeng03@gmail.com 
