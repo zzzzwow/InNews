@@ -12,7 +12,9 @@ date: "10 Dec 2021"
 
 Flutter Application Name - InNews
 GitHub Repository - https://github.com/zzzzwow/InNews
+
 Landing page - https://zzzzwow.github.io/InNews/
+
 Video - https://www.youtube.com/watch?v=yLTFl37hkEE
 
 ## Introduction to Application
